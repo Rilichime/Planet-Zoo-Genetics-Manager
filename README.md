@@ -32,21 +32,24 @@ ZooGeneticsManager reads your Planet Zoo `.zoo` save files and gives you a clean
 
 1. Make sure you have Python 3.9+ installed. You can download the installer for Python here.
    https://www.python.org/downloads/
-3. Download the  `Planet.Zoo.Genetics.Manager.zip` folder from the most recent release here.
+2. Download the  `Planet.Zoo.Genetics.Manager.zip` folder from the most recent release here.
    https://github.com/Rilichime/Planet-Zoo-Genetics-Manager/releases
-5. Run the program `ZooGeneticsManager.pyw`  (open in Python)
 
-6. Copy a Planet Zoo `.zoo` save file into the folder where this program is located. You can usually find this at:
+3. Extract the contents of the folder.
+
+4. Run the program `ZooGeneticsManager.pyw`  (open in Python)
+
+5. Copy a Planet Zoo `.zoo` save file into the folder where this program is located. You can usually find this at:
 
 `Users\(your username here)\Saved Games\Frontier Developments\Planet Zoo\(your steam ID)\Saves`
 
 Sort files by Date Modified and select the most recent `.zoo` file listed there. This will be the save file of your last saved zoo. The file name will be a bunch of random letters/numbers. Copy that `.zoo` file to the folder this program is in.
 
-5.  Click **Open .zoo file** and select a save.
+6.  Click **Open .zoo file** and select a save.
 
-6.  You can also merge additional saves with **File > Add Save**, which is useful if you have animals across multiple Franchise zoos.
+7.  You can also merge additional saves with **File > Add Save**, which is useful if you have animals across multiple Franchise zoos.
 
-7. You're done! All animals should be accounted for by the program, just select a species from the drop-down to view them.
+8. You're done! All animals should be accounted for by the program, just select a species from the drop-down to view them.
 
 ## Main tabs
 
