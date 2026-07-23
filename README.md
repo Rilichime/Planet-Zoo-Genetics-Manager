@@ -114,6 +114,8 @@ These files are safe to back up or move with the program.
 - The parser reads the compressed `parkdata` inside `.zoo` files. Scenario mode is not supported.
 - Some animals may share the same in-game ID; this is rare, but it happens. The program removes duplicates by `AnimalId` so on occasion it will accidentally remove a non-duplicate animal because it shares an AnimalID.
 - Color morphs must be input manually, as the save file does not expose them as plain text.
+- Parents must be input manually to prevent inbreeding.
+- Not all colormorphs are available to select; If you notice one missing, please let me know by [submitting an issue](https://github.com/Rilichime/Planet-Zoo-Genetics-Manager/issues) here on GitHub or message me on Discord. My Discord tag is @Chimeria (DM's are open to all).
 
 ## License
 
